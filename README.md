@@ -6,8 +6,7 @@ A base de dados utilizada é a amostra (sample) **"Financials"** fornecida pela 
 
 ## Preview do Dashboard
 
-![Preview do Relatório de Vendas](<img width="1331" height="768" alt="image" src="https://github.com/user-attachments/assets/5466c5c7-32f5-4f8a-8607-125ef4426efe" />
-)
+![Preview do Relatório de Vendas](https://github.com/xzThiago/dio-klabin-desafio-darshboard-vendas-powerbi/blob/main/img.png)
 
 ## 🎯 Objetivo
 
